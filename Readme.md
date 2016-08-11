@@ -10,6 +10,4 @@ this is motificated version @ 14:37 2016.08.11 by libaoming
 
 
 [google](http://google.com)
-
-
 this is update from master branch
